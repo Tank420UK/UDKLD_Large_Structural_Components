@@ -1,5 +1,5 @@
 # Large Structural/Station Components
-Originally work by  udk_lethal_d0se
+Original work by  udk_lethal_d0se
 
 http://forum.kerbalspaceprogram.com/index.php?/topic/31891-large-structuralstation-components-20-compatible-release-thread/
 
