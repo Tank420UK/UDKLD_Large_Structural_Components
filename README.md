@@ -3,8 +3,6 @@ Original work by  udk_lethal_d0se
 
 http://forum.kerbalspaceprogram.com/index.php?/topic/31891-large-structuralstation-components-20-compatible-release-thread/
 
-Original master branch is work in it's most recent released state by udk_lethal_d0se
-
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 You are free to:
